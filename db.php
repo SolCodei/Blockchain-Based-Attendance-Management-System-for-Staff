@@ -1,8 +1,8 @@
 <?php
-$host = 'sites.local';
+$host = '';
 $dbname = 'blockchain_db';
-$username = 'root';
-$password = 'cyl0102';
+$username = '';
+$password = '';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
