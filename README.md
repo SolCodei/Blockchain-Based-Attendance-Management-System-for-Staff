@@ -28,4 +28,4 @@ This project is a prototype for the **Godamlah**. Blockchain-based attendance sy
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+  gh repo clone SolCodei/Blockchain-Based-Attendance-Management-System-for-Staff
