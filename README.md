@@ -32,7 +32,7 @@ This project is a prototype for the **Godamlah**. Blockchain-based attendance sy
 
 2. **Database Setup**:
    - Open phpMyAdmin and create a new database (e.g., `blockchain_db`).
-   - Import the `schema.sql` file located in the project directory to set up the necessary tables.
+   - Import the `blockchain_db.sql` file located in the project directory to set up the necessary tables.
 
 3. **Configuration**:
    - Open `db.php` and update the database connection details (host, username, password) as per your setup.
