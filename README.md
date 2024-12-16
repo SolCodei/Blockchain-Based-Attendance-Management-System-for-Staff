@@ -31,7 +31,7 @@ This project is a prototype for the **Godamlah**. Blockchain-based attendance sy
    - Move the project folder to the `htdocs` directory of your XAMPP installation (e.g., `C:\xampp\htdocs\Blockchain_Attendance_System`).
 
 2. **Database Setup**:
-   - Open phpMyAdmin and create a new database (e.g., `blockchain_attendance`).
+   - Open phpMyAdmin and create a new database (e.g., `blockchain_db`).
    - Import the `schema.sql` file located in the project directory to set up the necessary tables.
 
 3. **Configuration**:
